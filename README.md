@@ -1,27 +1,26 @@
-#🌐 Resume Website
-
-A personal resume portfolio website built using modern web technologies. This project showcases my skills, projects, and professional background in an interactive and responsive format.
-#📌 Features
-🧑‍💼 Personal Resume Overview
-📱 Fully Responsive Design (Mobile + Desktop)
-⚡ Fast Performance using Vite
-🎨 Modern UI with Tailwind CSS
-📄 Download Resume (PDF)
-🖼️ Clean and Minimal Layout
-#🛠️ Technologies Used
-Frontend: HTML, CSS, TypeScript
-Framework/Build Tool: Vite
-Styling: Tailwind CSS
-Other Tools: PostCSS
-#📂 Project Structure
-Resume-website/
-│── public/            # Static files (favicon, resume, images)
-│── src/               # Source code (components, styles)
-│── index.html         # Main HTML file
-│── package.json       # Dependencies and scripts
-│── tailwind.config.ts # Tailwind configuration
-│── vite.config.ts     # Vite configuration
-#⚙️ Installation & Setup
+##🌐 Resume Website
+  A personal resume portfolio website built using modern web technologies. This project showcases my skills, projects, and professional background in an interactive and responsive format.
+##📌 Features
+  🧑‍💼 Personal Resume Overview
+  📱 Fully Responsive Design (Mobile + Desktop)
+  ⚡ Fast Performance using Vite
+  🎨 Modern UI with Tailwind CSS
+  📄 Download Resume (PDF)
+  🖼️ Clean and Minimal Layout
+##🛠️ Technologies Used
+  Frontend: HTML, CSS, TypeScript
+  Framework/Build Tool: Vite
+  Styling: Tailwind CSS
+  Other Tools: PostCSS
+##📂 Project Structure
+    Resume-website/
+    │── public/            # Static files (favicon, resume, images)
+    │── src/               # Source code (components, styles)
+    │── index.html         # Main HTML file
+    │── package.json       # Dependencies and scripts
+    │── tailwind.config.ts # Tailwind configuration
+    │── vite.config.ts     # Vite configuration
+##⚙️ Installation & Setup
 Clone the repository:
 git clone https://github.com/SaikamHari/Resume-website.git
 Navigate to the project folder:
